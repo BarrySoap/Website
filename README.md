@@ -1,5 +1,5 @@
 # Website
 
-Ideally, this repository will house the backend for my website containing a portfolio and whatever is needed.
+The repository contains the backend of my personal website, used for portfolio, CV, etc.
 
-Currently working on HTML, moving onto CSS soon. 
+HTML template from pixelarity.
